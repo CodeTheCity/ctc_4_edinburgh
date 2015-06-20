@@ -10,6 +10,21 @@ This page can be used to add/edit/view information relating to the Edinburgh Cod
 
 ## Challenges
 
+### Bio-diversity awareness challenge
+
+### Locate and cultivate
+
+### CitizenScience - invasive planet species
+
+### Shower the city
+
+### SMS lifesavers
+
+App connected to ambulance which sends notification to certified CPR people when someone near has a heart attack.
+
+### OS open data heightmaps
+
+Find best cycling cruise routes.
 
 
 
