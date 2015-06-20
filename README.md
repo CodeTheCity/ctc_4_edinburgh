@@ -8,23 +8,17 @@ This page can be used to add/edit/view information relating to the Edinburgh Cod
 * [eventifier](http://eventifier.com/event/codethecity-4-the-environment/livewall)
 
 
-## Challenges
+## Teams
 
-### Bio-diversity awareness challenge
+### Community Workplace
 
-### Locate and cultivate
-
-### CitizenScience - invasive planet species
+### Land Review
 
 ### Shower the city
 
-### SMS lifesavers
+### Litter Monster
 
-App connected to ambulance which sends notification to certified CPR people when someone near has a heart attack.
-
-### OS open data heightmaps
-
-Find best cycling cruise routes.
+### Gamifying Bio-diversity
 
 
 
