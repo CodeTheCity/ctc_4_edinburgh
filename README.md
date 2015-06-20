@@ -7,6 +7,9 @@ This page can be used to add/edit/view information relating to the Edinburgh Cod
 
 ## Datasets
 
+[City of Edinburgh Council Open Data Store](http://www.edinburghopendata.info/)
+[City of Edinburgh Council Open Data Store - Environment datasets](http://www.edinburghopendata.info/group/environment)
+
 
 ## Code
 
