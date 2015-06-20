@@ -29,14 +29,11 @@ Find derelict areas owned by local authorities. You can then request to use a pi
 #### Pitch
 
 
-### Litter Hardware
+### Interactive Bin Monsters
 
 #### Pitch
 
-
-### Litter Software
-
-#### Pitch
+Interactive Bin Monsters that people can feed with rubbish to hear them eat and earn points and expand their territory.
 
 
 ### Gamifying Bio-diversity
