@@ -32,7 +32,9 @@ Find best cycling cruise routes.
 
 * [City of Edinburgh Council Open Data Store](http://www.edinburghopendata.info/)
 * [City of Edinburgh Council Open Data Store - Environment datasets](http://www.edinburghopendata.info/group/environment)
-
+* [Scotland's Open Data Catalogues](http://okfnscot.github.io/open-data-scotland/)
+* [OS OpenData datasets](http://www.ordnancesurvey.co.uk/business-and-government/products/opendata-products-grid.html)
+* [OS OpenSpace APIs](http://www.ordnancesurvey.co.uk/business-and-government/products/os-openspace/index.html)
 
 ## Code
 
