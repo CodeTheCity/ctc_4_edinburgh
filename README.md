@@ -10,16 +10,38 @@ This page can be used to add/edit/view information relating to the Edinburgh Cod
 
 ## Teams
 
-### Community Workplace
+### Edin Bros
 
-### Land Review
+#### Pitch
 
-### Shower the city
+Online marketplace for swapping skills in the community.
 
-### Litter Monster
+
+### Land Revival
+
+#### Pitch
+
+Find derelict areas owned by local authorities. You can then request to use a piece of land and let citizens vote the idea up or down. Any request that is ultimately voted down is rejected, any request voted up is accepted.
+
+
+### Shower the City
+
+#### Pitch
+
+
+### Litter Hardware
+
+#### Pitch
+
+
+### Litter Software
+
+#### Pitch
+
 
 ### Gamifying Bio-diversity
 
+#### Pitch
 
 
 ## Datasets
