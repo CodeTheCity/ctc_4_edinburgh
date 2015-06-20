@@ -4,8 +4,8 @@
 
 This page can be used to add/edit/view information relating to the Edinburgh Code The City event.
 
-[blog](http://codethecity.tumblr.com/)
-[eventifier](http://eventifier.com/event/codethecity-4-the-environment/livewall)
+* [blog](http://codethecity.tumblr.com/)
+* [eventifier](http://eventifier.com/event/codethecity-4-the-environment/livewall)
 
 
 ## Challenges
